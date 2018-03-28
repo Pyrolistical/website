@@ -21,7 +21,7 @@ app({
   view: (s, a) =>
     main([
       icon("hyperapp"),
-      h1("1 KB JavaScript library for building frontend applications"),
+      h1("1 kB JavaScript framework for building web applications."),
       h("row-", { class: "social", gap: "1" }, [
         link({ href: "https://github.com/hyperapp/hyperapp" }, [
           icon("github"),
